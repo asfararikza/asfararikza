@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @asfararikza
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning html, css, Js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science 
 - 📫 How to reach me on intagram @arainaari
 
 <!---
